@@ -1,5 +1,7 @@
 import './style.css'
 import Home from './Home';
+import { HashRouter as Router } from "react-router-dom";
+
 function App() {
   return (
     <>
